@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.brew_crew_app">
+    package="com.chitti.brew_crew_app">
    <application
         android:label="brew_crew_app"
         android:icon="@mipmap/ic_launcher">
